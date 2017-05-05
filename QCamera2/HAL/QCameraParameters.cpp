@@ -35,7 +35,7 @@
 #include <utils/Log.h>
 #include <string.h>
 #include <stdlib.h>
-#include <gralloc_priv.h>
+#include <../HAL3/gralloc_priv.h>
 #include <sys/sysinfo.h>
 #include "QCamera2HWI.h"
 #include "QCameraParameters.h"

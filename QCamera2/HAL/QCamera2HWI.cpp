@@ -37,7 +37,7 @@
 #include <stdlib.h>
 #include <utils/Errors.h>
 #include <utils/Trace.h>
-#include <gralloc_priv.h>
+#include <../HAL3/gralloc_priv.h>
 #include <gui/Surface.h>
 #include <dlfcn.h>
 #include "util/QCameraFlash.h"

@@ -34,7 +34,7 @@
 #include <sys/mman.h>
 #include <utils/Log.h>
 #include <utils/Errors.h>
-#include <gralloc_priv.h>
+#include <../HAL3/gralloc_priv.h>
 #include <qdMetaData.h>
 #include "QCamera3Mem.h"
 #include "QCamera3HWI.h"

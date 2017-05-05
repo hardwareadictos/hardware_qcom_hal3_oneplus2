@@ -43,7 +43,7 @@
 #include <utils/Errors.h>
 #include <utils/Trace.h>
 #include <ui/Fence.h>
-#include <gralloc_priv.h>
+#include <../HAL3/gralloc_priv.h>
 #include "util/QCameraFlash.h"
 #include "QCamera3HWI.h"
 #include "QCamera3Mem.h"

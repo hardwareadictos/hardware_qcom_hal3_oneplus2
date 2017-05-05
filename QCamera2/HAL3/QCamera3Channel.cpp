@@ -37,7 +37,7 @@
 #include <string.h>
 #include <hardware/camera3.h>
 #include <system/camera_metadata.h>
-#include <gralloc_priv.h>
+#include <../HAL3/gralloc_priv.h>
 #include <utils/Log.h>
 #include <utils/Errors.h>
 #include <utils/Trace.h>
